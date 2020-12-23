@@ -11,7 +11,7 @@ Atualemnte focando em desenvolvimento em nuvem (AWS) e aperfeiçoando os Conheci
 
 ### Formação :mortar_board:
 - **Bachelado em Sistemas de Informação**, Impacta Tecnologia (2016 - 2019)
-- **Técnico em Redes de Computadores**, ETEC (2016 - 2017)
+- **Técnico em Redes de Computadores**, ETEC (2013 - 2015)
 
 ### Conhecimentos :books:
 - **Back-End**: .NET c#;
