@@ -3,8 +3,6 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Olá, eu sou o <a href="">Vinicius Bidoia.</a></strong>
 </h1>
 
-### Desenvolvedor Web :computer: 
-
 Trabalho como desenvolvedor de sistemas no Itaú/Redecard, utilizando as melhores práticas de desenvolvimento de software, criando layouts e irterfaces práticas para usuários, integrando dados de back-end e banco de dados.
     
 Atualemnte focando em desenvolvimento em nuvem (AWS) e aperfeiçoando os Conhecimentos.
