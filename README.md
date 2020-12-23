@@ -1,16 +1,23 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**ViniciusBidoia/ViniciusBidoia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Olá, eu sou o <a href="">Vinicius Bidoia.</a></strong>
+</h1>
 
-Here are some ideas to get you started:
+### Desenvolvedor Web :computer: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabalho como desenvolvedor de sistemas no Itaú/Redecard, utilizando as melhores práticas de desenvolvimento de software, criando layouts e irterfaces práticas para usuários, integrando dados de back-end e banco de dados.
+    
+Atualemnte focando em desenvolvimento em nuvem (AWS) e aperfeiçoando os Conhecimentos.
+
+### Formação :mortar_board:
+- **Bachelado em Sistemas de Informação**, Impacta Tecnologia (2016 - 2019)
+- **Técnico em Redes de Computadores**, ETEC (2016 - 2017)
+
+### Conhecimentos :books:
+- **Back-End**: .NET c#;
+- **Bancos de dados**: MySQL, SQL Server, Oracle;
+- **Front-End**: Javascript, Typescript, HTML5, CSS3, Angular;
+
+### Contatos :email:
+- E-mail: vinicius.bidoia@hotmail.com
+- Linkedin: https://github.com/ViniciusBidoia
