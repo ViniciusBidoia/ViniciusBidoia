@@ -20,4 +20,4 @@ Atualemnte focando em desenvolvimento em nuvem (AWS) e aperfeiçoando os Conheci
 
 ### Contatos :email:
 - E-mail: vinicius.bidoia@hotmail.com
-- Linkedin: https://github.com/ViniciusBidoia
+- Linkedin: https://www.linkedin.com/in/vinicius-bidoia-086506179/
