@@ -5,7 +5,7 @@
 
 Trabalho como desenvolvedor de sistemas no Itaú/Redecard, utilizando as melhores práticas de desenvolvimento de software, criando layouts e irterfaces práticas para usuários, integrando dados de back-end e banco de dados.
     
-Atualemnte focando em desenvolvimento em nuvem (AWS) e aperfeiçoando os Conhecimentos.
+Atualmente focando em desenvolvimento em nuvem (AWS) e aperfeiçoando os Conhecimentos.
 
 ### Formação :mortar_board:
 - **Bachelado em Sistemas de Informação**, Impacta Tecnologia (2016 - 2019)
