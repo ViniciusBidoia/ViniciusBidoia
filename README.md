@@ -8,7 +8,7 @@ Trabalho como desenvolvedor de sistemas no Itaú/Redecard, utilizando as melhore
 Atualmente focando em desenvolvimento em nuvem (AWS) e aperfeiçoando os Conhecimentos.
 
 ### Formação :mortar_board:
-- **Bachelado em Sistemas de Informação**, Impacta Tecnologia (2016 - 2019)
+- **Bacharelado em Sistemas de Informação**, Impacta Tecnologia (2016 - 2019)
 - **Técnico em Redes de Computadores**, ETEC (2013 - 2015)
 
 ### Conhecimentos :books:
