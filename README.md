@@ -12,9 +12,9 @@
 👤 Sobre mim:
   nome        : Vinicius Bidoia
   cargo       : Desenvolvedor de Sistemas @ ASA SCFI
-  foco_atual  : Desenvolvimento em Nuvem (AWS)
-  graduação   : Bacharelado em Sistemas de Informação - Impacta Tecnologia
-  paixão      : Criar soluções elegantes e performáticas
+  foco_atual  : Acquirer/Bank - Cloud AWS
+  graduação   : Bacharelado em Sistemas de Informação
+  paixão      : Criar soluções performáticas
 ```
 
 ---
