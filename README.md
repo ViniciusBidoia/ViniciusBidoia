@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0-006400,100-ADFF2F&height=200&section=header&text=Vinicius%20Bidoia&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20.NET%20%7C%20AWS%20%7C%20Angular&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:ADFF2F&height=200&section=header&text=Vinicius%20Bidoia&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20.NET%20%7C%20AWS%20%7C%20Angular&descAlignY=55&descAlign=50" width="100%"/>
 
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADFF2F&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Vinicius+Bidoia!+%F0%9F%91%8B;Desenvolvedor+de+Sistemas+na+ASA+SCFI;Apaixonado+por+tecnologia+e+nuvem+%E2%98%81%EF%B8%8F;.NET+%7C+Angular+%7C+AWS+%7C+DynamoDB">
@@ -59,11 +59,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBidoia&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBidoia&layout=compact&langs_count=8&theme=chartreuse-dark"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusBidoia&theme=chartreuse-dark" alt="ViniciusBidoia streak"/>
 </p>
 
@@ -76,4 +71,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0-ADFF2F,100-006400&height=120&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ADFF2F,100:003300&height=120&section=footer"/>
