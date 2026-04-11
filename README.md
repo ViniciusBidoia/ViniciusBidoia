@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:ADFF2F&height=200&section=header&text=Vinicius%20Bidoia&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20.NET%20%7C%20AWS%20%7C%20Angular&descAlignY=55&descAlign=50" width="100%"/>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADFF2F&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Vinicius+Bidoia!+%F0%9F%91%8B;Desenvolvedor+de+Sistemas+na+ASA+SCFI;Apaixonado+por+tecnologia+e+nuvem+%E2%98%81%EF%B8%8F;.NET+%7C+Angular+%7C+AWS+%7C+DynamoDB">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADFF2F&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Vinicius+Bidoia!+%F0%9F%91%8B;Desenvolvedor+de+Sistemas+na+ASA+SCFI;Apaixonado+por+tecnologia+e+nuvem+%E2%98%81%EF%B8%8F;.NET+%7C+Angular+%7C+AWS+%7C+DynamoDB" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADFF2F&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Vinicius+Bidoia!+%F0%9F%91%8B;Desenvolvedor+de+Sistemas+no+ASA+SCFI;Apaixonado+por+tecnologia+e+nuvem+%E2%98%81%EF%B8%8F;.NET+%7C+Angular+%7C+AWS+%7C+DynamoDB">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADFF2F&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Vinicius+Bidoia!+%F0%9F%91%8B;Desenvolvedor+de+Sistemas+no+ASA+SCFI;Apaixonado+por+tecnologia+e+nuvem+%E2%98%81%EF%B8%8F;.NET+%7C+Angular+%7C+AWS+%7C+DynamoDB" alt="Typing SVG" />
   </a>
 </p>
 
