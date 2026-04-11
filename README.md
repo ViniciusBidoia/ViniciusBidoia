@@ -9,7 +9,7 @@
 ---
 
 ```yaml
-👤 Sobre mim:
+Sobre mim:
   nome        : Vinicius Bidoia
   cargo       : Desenvolvedor de Sistemas @ ASA SCFI
   foco_atual  : Acquirer/Bank - Cloud AWS
