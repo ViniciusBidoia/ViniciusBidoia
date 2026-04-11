@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-<img align="right" src="https://avatars.githubusercontent.com/u/47647813?v=4" width="140" style="border-radius:50%; border: 3px solid #ADFF2F; margin-left: 20px;" alt="Vinicius Bidoia avatar"/>
+<img align="right" src="https://avatars.githubusercontent.com/u/47647813?v=4" width="140" alt="Vinicius Bidoia avatar"/>
 
 🏢 **Cargo atual:** Desenvolvedor de Sistemas @ **ASA SCFI**
 
